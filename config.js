@@ -7,7 +7,7 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT 
 global.appUrl=process.env.APP_URL || ""     // put your deploy app/bot url here, for 24/7 for (render , koyeb, glitch)
-global.email ="saimsamsun789@gmail.com"
+global.email ="sayanbera358@gmail.com"
 global.location="Lahore,Pakistan."
 
 
@@ -26,7 +26,7 @@ global.caption = process.env.CAPTION || global.caption || "© GlobalTechInfo"
 
 global.devs = "" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "+919339361276";
 
 
 
